@@ -6,3 +6,8 @@ Makes a nice Square Line Pattern in VB6. You can toggle the sides of the square 
 An example of a lined pattern.
 
 ![image](https://user-images.githubusercontent.com/91184178/134761464-f0d37f20-7366-4ddc-b7bf-456545639574.png)
+
+And more.
+
+![image](https://user-images.githubusercontent.com/91184178/134761609-a000ff51-946b-4c04-980b-ebeb2681d547.png)
+
